@@ -24,12 +24,12 @@ const router = createBrowserRouter(
 );
 
 function App() {
-  let log = localStorage.getItem("userEmail");
+  // let log = localStorage.getItem("userEmail");
 
   return (
     <>
-      <RouterProvider router={router} />
-      <div className="App"></div>
+      {/* <RouterProvider router={router} /> */}
+      <div className="App">ssss</div>
     </>
   );
 }
