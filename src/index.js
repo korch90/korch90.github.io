@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
  import { HashRouter} from "react-router-dom";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
-<meta http-equiv="Permissions-Policy" content="interest-cohort=()"></meta>
+{/* <meta http-equiv="Permissions-Policy" content="interest-cohort=()"> </meta> */}
 
 root.render(
   <React.StrictMode>
