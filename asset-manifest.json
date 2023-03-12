@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/korch90.github.io/static/css/main.aa79fd84.css",
-    "main.js": "/korch90.github.io/static/js/main.3f2bbd6a.js",
+    "main.js": "/korch90.github.io/static/js/main.c1a84f1e.js",
     "static/js/787.28cb0dcd.chunk.js": "/korch90.github.io/static/js/787.28cb0dcd.chunk.js",
     "static/media/PngItem_4380511.png": "/korch90.github.io/static/media/PngItem_4380511.fdb72745f596ac4a045d.png",
     "index.html": "/korch90.github.io/index.html",
     "main.aa79fd84.css.map": "/korch90.github.io/static/css/main.aa79fd84.css.map",
-    "main.3f2bbd6a.js.map": "/korch90.github.io/static/js/main.3f2bbd6a.js.map",
+    "main.c1a84f1e.js.map": "/korch90.github.io/static/js/main.c1a84f1e.js.map",
     "787.28cb0dcd.chunk.js.map": "/korch90.github.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa79fd84.css",
-    "static/js/main.3f2bbd6a.js"
+    "static/js/main.c1a84f1e.js"
   ]
 }
