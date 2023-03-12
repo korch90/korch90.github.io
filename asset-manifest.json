@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/korch90/korch90.github.io.git/static/css/main.565d9da9.css",
+    "main.js": "/korch90/korch90.github.io.git/static/js/main.b17bbe15.js",
+    "static/js/787.28cb0dcd.chunk.js": "/korch90/korch90.github.io.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/PngItem_4380511.png": "/korch90/korch90.github.io.git/static/media/PngItem_4380511.fdb72745f596ac4a045d.png",
+    "index.html": "/korch90/korch90.github.io.git/index.html",
+    "main.565d9da9.css.map": "/korch90/korch90.github.io.git/static/css/main.565d9da9.css.map",
+    "main.b17bbe15.js.map": "/korch90/korch90.github.io.git/static/js/main.b17bbe15.js.map",
+    "787.28cb0dcd.chunk.js.map": "/korch90/korch90.github.io.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.565d9da9.css",
+    "static/js/main.b17bbe15.js"
+  ]
+}
