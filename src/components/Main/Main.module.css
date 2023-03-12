@@ -1,0 +1,48 @@
+.wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 86px;
+  height: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.logo {
+  width: 100%;
+  background-image: url(../../images/PngItem_4380511.png);
+  max-width: 600px;
+  background-repeat: no-repeat;
+  height: 200px;
+  background-size: contain;
+  max-height: 200px;
+}
+
+.input_form {
+  width: 100%;
+  max-width: 1005px;
+  height: 50px;
+  box-sizing: border-box;
+}
+
+.input_form > input {
+  width: 100%;
+  padding-left: 30px;
+}
+.scope_img {
+  background-image: url(../../images/scope1.png);
+  width: 17.49px;
+  height: 17.49px;
+  position: absolute;
+  margin-top: 7px;
+  margin-left: 7px;
+}
+.cards_wrapper {
+  width: 100%;
+  max-width: 1020px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+}
