@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://github.com/korch90/korch90.github.io.git",
+  "homepage": "https://github.com/korch90/korch90.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
